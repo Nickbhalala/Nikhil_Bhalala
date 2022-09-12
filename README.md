@@ -3,10 +3,15 @@ Hi! My name is Nikhil Bhalala and I am an inernational student from India. I ant
 
 
 🌱 I’m currently learning  Big Data.
+
 👯 I’m looking to collaborate on DataBase or data visualization  Projects.
+
 🤔 I’m looking for help with networking.
+
 📫 How to reach me: bhalala300@gmail.com
+
 😄 Pronouns: He/him/his
+
 Education
 
 DePaul University, Chicago, IL
@@ -19,13 +24,18 @@ Bachelor Of Science in Computer Science
 
 Relevant Coursework: Python For Programmers, Discrete Mathematics, Data Structures, Computer Systems I,Computer Systems II, Program Language Concepts, Data Analysis, Data Analysis and Regression, Database Programming ,Distributed Systems ,OBJ-Oriented Software developer
 Advanced Data Analysis, and Database Systems.
+
 Honors: Dean’s List (Since enrollment) Transfer Scholarship of $9,000 (Annual)
 
 Key competencies:
 -SQL
+
 -Exploratory data analysis
+
 -Data Visualization
+
 -Model Optimization 
+
 -Model Testing and Evaluation
 
 
