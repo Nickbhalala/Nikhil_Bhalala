@@ -1,10 +1,10 @@
 Hi there 👋
-Hi! My name is Nikhil Bhalala and I am an inernational student from India. I anticipate to graduate with a B.S in Computer Science in November 2022. I am a self-starter with ability to work independently and within a large team environment. Enthusiastic to take on new challenges and projects and looking to use my knowledge and gain experience in a professional setting. I am currently looking for a full time job as I graduate from college soon.
+My name is Nikhil Bhalala and I am an inernational student from India. I anticipate to graduate with a B.S in Computer Science in November 2022. I am a self-starter with ability to work independently and within a large team environment. Enthusiastic to take on new challenges and projects and looking to use my knowledge and gain experience in a professional setting. I am currently looking for a full time job as I graduate from college soon.
 
 
-🌱 I’m currently learning  Big Data.
+🌱 I’m currently learning Big Data.
 
-👯 I’m looking to collaborate on DataBase or data visualization  Projects.
+👯 I’m looking to collaborate on DataBase or data visualization Projects.
 
 🤔 I’m looking for help with networking.
 
